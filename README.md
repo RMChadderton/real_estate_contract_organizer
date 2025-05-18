@@ -1,0 +1,1 @@
+The fullscript.py file boots a GUI to allow the input of Florida Bar AS-IS7 real estate contract details to give the important timelines and a prewritten email to copy and paste to the other party for confirmation.
